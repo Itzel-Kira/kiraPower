@@ -1,0 +1,17 @@
+{
+  "name": "kirapower",
+  "version": "1.0.0",
+  "description": "Ejercicios sobre condicionales y bucles JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "if",
+    "else",
+    "for"
+  ],
+  "author": "genesismauries",
+  "license": "ISC"
+}
