@@ -1,10 +1,10 @@
 
 ## Índice
 
-* [1. Indicaciones]()
-* [2. Condicionales]()
-* [3. Bucles]()
-* [4. Bucles + Condicionales]()
+* [1. Indicaciones](#1-indicaciones)
+* [2. Condicionales](#2-condicionales)
+* [3. Bucles](#3-bucles)
+* [4. Bucles + Condicionales](#4-bucles)
 ## 1. Indicaciones
 
 - Realiza el 🍴 [fork](https://help.github.com/articles/fork-a-repo/) de este repositorio
