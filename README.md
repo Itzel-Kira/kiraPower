@@ -52,3 +52,4 @@ Finalmente, el programa responde por pantalla/consola el precio del helado con e
 
 * [Bucles](https://www.youtube.com/watch?v=11Fz65LQVB4).
 * [Condicionales](https://www.youtube.com/watch?v=bo23w5-klD8)
+* [Recordar lo que aprender](https://www.youtube.com/watch?v=V-UvSKe8jW4&t=48s)
