@@ -8,9 +8,8 @@
 ## 1. Indicaciones
 
 - Realiza el 🍴 [fork](https://help.github.com/articles/fork-a-repo/) de este repositorio
-- ⬇️ : [Clona](https://help.github.com/articles/cloning-a-repository/)
+- ⬇️ [Clona](https://help.github.com/articles/cloning-a-repository/)
    tu *fork* a tu computadora (copia local).
--
 ### Ojo 👀
 - No importan los estilos (nos enfocaremos en ejecutar)
 - Resolver en el archivo index.js
@@ -18,7 +17,7 @@
 
 ## 2. Condicionales  (if/else if/else && switch)
 
-1. - Escribe un programa que evalue si el usuario es culpable o no. Asumiremos que:
+1.- Escribe un programa que evalue si el usuario es culpable o no. Asumiremos que:
 
 * En caso afirmativo el usuario responderá sí
 * En caso contrario responderá no.
