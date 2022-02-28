@@ -5,6 +5,7 @@
 * [2. Condicionales](#2-condicionales)
 * [3. Bucles](#3-bucles)
 * [4. Bucles + Condicionales](#4-bucles)
+* [5. Materiales](#5-materiales)
 ## 1. Indicaciones
 
 - Realiza el 🍴 [fork](https://help.github.com/articles/fork-a-repo/) de este repositorio
@@ -46,3 +47,8 @@ Finalmente, el programa responde por pantalla/consola el precio del helado con e
 ## 4. Bucles + Condicionales
 
 1.- Realizar un algoritmo que visualice los números primos del 1 al 20
+
+## 5. Materiales 
+
+* [Bucles](https://www.youtube.com/watch?v=11Fz65LQVB4).
+* [Condicionales](https://www.youtube.com/watch?v=bo23w5-klD8)
