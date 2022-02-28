@@ -10,7 +10,6 @@
 - Realiza el 🍴 [fork](https://help.github.com/articles/fork-a-repo/) de este repositorio
 - ⬇️ : [Clona](https://help.github.com/articles/cloning-a-repository/)
    tu *fork* a tu computadora (copia local).
-- 📦 Instala las dependencias del proyecto con el comando `npm install`.
 -
 ### Ojo 👀
 - No importan los estilos (nos enfocaremos en ejecutar)
